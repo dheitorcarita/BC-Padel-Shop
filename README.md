@@ -3,6 +3,10 @@
 
 This project is based on a real social media business, designed as an example of what the user interface could look like. It showcases essential features for an e-commerce platform, including product display, cart management, and seamless navigation. This project uses of React, React Router, Context API, and Tailwind CSS for styling.
 
+## Live Demo
+
+You can view the live demo of the BC-Padel Shop at the following link: [BC-Padel Shop Demo](https://bc-padel-shop.pages.dev/).
+
 ## Screenshots
 
 ![Home Page](https://github.com/dheitorcarita/BC-Padel-Shop/blob/master/screenshots/BC-Padel-Homepage.png)
